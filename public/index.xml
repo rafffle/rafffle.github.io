@@ -12,7 +12,7 @@
       <link>http://localhost:1313/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/books/</guid>
-      <description>&lt;style&gt;&#xA;  details { margin-bottom:6px; }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Below is a list of textbooks I have used, and some of my thoughts on them. I tend to like rigorous, dry, and to-the-point books in mathematics, while physics, I enjoy standard texts. The reviews are a work in progress, and some of the really big books (Rising Sea, Mirror Symmetry and Foundations of Mechanics) I am still reading (and have been reading for a while).&lt;/p&gt;</description>
+      <description>&lt;style&gt;&#xA;  details { margin-bottom:6px; }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Below is a list of textbooks I have used, and some of my thoughts on them. I tend to like rigorous, dry, and to-the-point books in mathematics, while in physics I enjoy standard texts. The reviews are a work in progress, and some of the really big books (Rising Sea, Mirror Symmetry and Foundations of Mechanics) I am still reading (and have been reading for a while).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bookshelf</title>
@@ -33,7 +33,7 @@
       <link>http://localhost:1313/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/</guid>
-      <description>&lt;p&gt;This is a collection of some of the talks and presentations I&amp;rsquo;ve given that have handouts/notes I thought might be worth sharing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;math-171-final-project-symplectic-reduction-of-phase-spaces-with-symmetry&#34;&gt;Math 171 final project: Symplectic reduction of phase spaces with symmetry&lt;/h2&gt;&#xA;&lt;p&gt;Attempted to talk about this topic in geometric mechanics from a purely algebraic standpoint to my abstract algebra classmates at Mudd. Stayed quite qualitative. The presentation was 10-12 minutes. My notes are &lt;a href=&#34;http://localhost:1313/other%20presentations/Math_171_Final_Project%20(2).pdf&#34;&gt;here&lt;/a&gt;; my figures were hand drawn and are not included.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a collection of some of the talks and presentations I&amp;rsquo;ve given that have handouts/notes, which I thought might be worth sharing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;math-171-final-project-symplectic-reduction-of-phase-spaces-with-symmetry&#34;&gt;Math 171 final project: Symplectic reduction of phase spaces with symmetry&lt;/h2&gt;&#xA;&lt;p&gt;Attempted to talk about this topic in geometric mechanics from a purely algebraic standpoint to my abstract algebra classmates at Mudd. Stayed quite qualitative. The presentation was 10-12 minutes. My notes are &lt;a href=&#34;http://localhost:1313/other%20presentations/Math_171_Final_Project%20(2).pdf&#34;&gt;here&lt;/a&gt;; my figures were hand drawn and are not included.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
