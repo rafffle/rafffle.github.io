@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Home on raphael esquivel</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Home on raphael esquivel</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bookshelf</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;style&gt;&#xA;  details { margin-bottom:6px; }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Below is a list of textbooks I have used, and some of my thoughts on them. I tend to like rigorous, dry, and to-the-point books in mathematics, while physics, I enjoy standard texts. The reviews are a work in progress, and some of the really big books (Rising Sea, Mirror Symmetry and Foundations of Mechanics) I am still reading (and have been reading for a while).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookshelf</title>
+      <link>http://localhost:1313/examplepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/examplepage/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;XMin&lt;/strong&gt; is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proj/</guid>
+      <description>&lt;p&gt;Still building this page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;p&gt;This is a collection of some of the talks and presentations I&amp;rsquo;ve given that have handouts/notes I thought might be worth sharing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;math-171-final-project-symplectic-reduction-of-phase-spaces-with-symmetry&#34;&gt;Math 171 final project: Symplectic reduction of phase spaces with symmetry&lt;/h2&gt;&#xA;&lt;p&gt;Attempted to talk about this topic in geometric mechanics from a purely algebraic standpoint to my abstract algebra classmates at Mudd. Stayed quite qualitative. The presentation was 10-12 minutes. My notes are &lt;a href=&#34;http://localhost:1313/other%20presentations/Math_171_Final_Project%20(2).pdf&#34;&gt;here&lt;/a&gt;; my figures were hand drawn and are not included.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
