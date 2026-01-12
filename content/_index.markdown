@@ -13,7 +13,7 @@ I'm an undergraduate student in physics and mathematics at Harvey Mudd College. 
 
 Beyond research, I have a wide variety of other interests. In STEM, I particularly enjoy materials science, solid-state chemistry, condensed matter physics, quantum field theory, fluid dynamics, finite element analysis, electrical things, mechanical design, education, and more.
 
-A CV is available in [English](/CV/english.pdf) or [French](/CV/francais.pdf).
+A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf).
 
 <!---
 A list of my current and past projects can be found [here](proj/).

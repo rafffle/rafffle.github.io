@@ -20,7 +20,7 @@ footnotereturnlinkcontents = "↩"
     weight = 1
   [[menu.main]]
     name="CV"
-    url="/CV/english.pdf"
+    url="/cv/english.pdf"
     weight=2
   [[menu.main]]
     name = "Talks"
