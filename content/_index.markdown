@@ -23,10 +23,7 @@ A list of my current and past projects can be found [here](proj/).
 
 I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I was at **Stanford University Online High School** from 8th-9th grade and **ʻIolani School** from 10th-11th grade. I took some undergraduate physics classes from **Arizona State University** in 11th grade. I graduated early from ʻIolani. 
 
-<!---
-A full list of major coursework is available [here](/CV/coursework.pdf). 
--->
-There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
+A full list of major coursework is available [here](/cv/coursework_transcript__evan_chen_style.pdf). There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
 ## Teaching
 STEM education is very important to me, especially accessibility. I support and believe in [Federico Ardila-Mantilla's axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf), and think these apply to STEM as a whole. I also believe that, following axiom 2, it is my duty to pass on knowledge, so that others might have joyful, meaningful, and empowering experiences in STEM like those I have enjoyed. 
 ### Linear algebra (Math 073)
