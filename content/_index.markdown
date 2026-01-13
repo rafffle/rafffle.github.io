@@ -60,9 +60,9 @@ I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://sc
   <summary>Mason Invitational (Nov 15, 2025)</summary>
 
   [Materials science test](/scioly/mason2025/matsci%20test.pdf)<br>
-  [Materials science key](/scioly)<br>
-  [Circuit lab test](/scioly)<br>
-  [Circuit lab key](/scioly)
+  [Materials science key](/scioly/mason2025/matsci%20key.pdf)<br>
+  [Circuit lab test](/scioly/mason2025/circuit%20test.pdf)<br>
+  [Circuit lab key](/scioly/mason2025/circuit%20key.pdf)
 </details>
 <details>
   <summary>ʻIolani Tryout 1 (Oct 10, 2025)</summary>
