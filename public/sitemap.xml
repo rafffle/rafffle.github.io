@@ -10,6 +10,8 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+  </url><url>
     <loc>http://localhost:1313/proj/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

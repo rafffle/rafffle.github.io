@@ -121,7 +121,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
 </details>
 
 
-## Geometry
+## Geometry and topology
 <details>
   <summary>Geometry, topology, and physics by Nakahara (2nd ed.)</summary>
     Clarity: ★★★★<br>
@@ -132,7 +132,14 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
 
 ### Algebraic geometry
 <details>
-  <summary>The rising sea: foundations of algebraic geometry</summary>
+  <summary>Moduli spaces by Brambila-Paz, Garcia-Prada, Newstead, & Thomas</summary>
+    Clarity: ★★★★<br>
+    Difficulty: ★★<br>
+    Overall: ★★★★★<br>
+    I read the first part of this book, which is a really elegant, gentle, pictoral introduction to moduli spaces and algebraic stacks by building moduli spaces/stacks of various classes of triangles (literally, triangles in a plane) and then giving the formalism. The figures are amazing.
+</details>
+<details>
+  <summary>The rising sea: foundations of algebraic geometry by Vakil</summary>
     Clarity: ★★★★<br>
     Difficulty: ★★★★★<br>
     Overall: ★★★★★<br>
