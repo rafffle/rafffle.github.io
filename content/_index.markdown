@@ -9,7 +9,7 @@ title: Home
 
 ## Biography
 
-I'm an undergraduate student in physics and mathematics at Harvey Mudd College. My research includes (1) **algebraic geometry**: toric, logarithmic, and tropical geometry, Gromov-Witten theory, and their application to moduli spaces and enumerative geometry, (2) **geometric mechanics**: Lagrangian reduction, Lie algebroid cohomology,  and Lie-Poisson geometry, and (3) **quantum optics**: experimental implementations of quantum position verification. My research interests are developing, but broadly, I'm interested in mathematical physics. 
+I'm an undergraduate student in physics and mathematics at Harvey Mudd College. My research includes (1) **algebraic geometry**: toric, logarithmic, and tropical geometry, Gromov-Witten theory, and their application to moduli spaces and enumerative geometry, (2) **geometric mechanics**: Lagrangian reduction, Lie algebroid cohomology, and Lie-Poisson geometry, and (3) **quantum optics**: experimental implementations of quantum position verification. My research interests are developing, but broadly, I'm interested in mathematical physics. 
 
 Beyond research, I have a wide variety of other interests. In STEM, I particularly enjoy materials science, solid-state chemistry, condensed matter physics, quantum field theory, fluid dynamics, finite element analysis, electrical things, mechanical design, education, and more.
 
@@ -32,10 +32,9 @@ A full list of major coursework is available [here](/cv/coursework_transcript__e
 </p>
 -->
 
-## Teaching
+## Education
 STEM education is very important to me, especially accessibility. I support and believe in [Federico Ardila-Mantilla's axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf), and think these apply to STEM as a whole. I also believe that, following axiom 2, it is my duty to pass on knowledge, so that others might have joyful, meaningful, and empowering experiences in STEM like those I have enjoyed. 
-### Linear algebra (Math 073)
-In spring 2026, I was a grader and tutor for [Math 073](https://catalog.hmc.edu/preview_course_nopop.php?catoid=22&coid=7466), Harvey Mudd's introductory linear algebra class. I tutored weekly sessions.
+
 ### Science Olympiad
 I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://scioly.org/wiki/Island_School) in 2018/19 and with [ʻIolani School](https://scioly.org/wiki/%27Iolani_School) in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for regional, state, and national tournaments and invitationals. Below are the tests that I'm allowed to share.
 
