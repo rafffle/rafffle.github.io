@@ -36,7 +36,7 @@ A full list of major coursework is available [here](/cv/coursework_transcript__e
 STEM education is very important to me, especially accessibility. I support and believe in [Federico Ardila-Mantilla's axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf), and think these apply to STEM as a whole. I also believe that, following axiom 2, it is my duty to pass on knowledge, so that others might have joyful, meaningful, and empowering experiences in STEM like those I have enjoyed. 
 
 ### Science Olympiad
-I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://scioly.org/wiki/Island_School) in 2018/19 and with [ʻIolani School](https://scioly.org/wiki/%27Iolani_School) in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for regional, state, and national tournaments and invitationals. Below are the tests that I'm allowed to share.
+I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://scioly.org/wiki/Island_School) in 2018/19 and with [ʻIolani School](https://scioly.org/wiki/%27Iolani_School) in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the tests that I'm allowed to share.
 
 
 <div style="float:right; text-align:center; margin-left:20px;">
