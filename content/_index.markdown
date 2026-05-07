@@ -11,7 +11,7 @@ title: Home
 
 I'm an undergraduate student in physics and mathematics at Harvey Mudd College. My research includes (1) **algebraic geometry**: toric, logarithmic, and tropical geometry, Gromov-Witten theory, and their application to moduli spaces and enumerative geometry, (2) **geometric mechanics**: Lagrangian reduction, Lie algebroid cohomology, and Lie-Poisson geometry, and (3) **quantum optics**: experimental implementations of quantum position verification. My research interests are developing, but broadly, I'm interested in mathematical physics. 
 
-Beyond research, I have a wide variety of other interests. In STEM, I particularly enjoy materials science, solid-state chemistry, condensed matter physics, quantum field theory, fluid dynamics, finite element analysis, electrical things, mechanical design, education, and more.
+Beyond research, I have a wide variety of other interests. In STEM, I particularly enjoy materials science, solid-state chemistry, condensed matter physics, quantum field theory, fluid dynamics, finite element analysis, electronics, quantum field theory, mechanical design, education, and more.
 
 A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf).
 
@@ -23,7 +23,7 @@ A list of my current and past projects can be found [here](proj/).
 
 I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I was at **Stanford University Online High School** from 8th-9th grade and **ʻIolani School** from 10th-11th grade. I took some undergraduate physics classes from **Arizona State University** in 11th grade. I graduated early from ʻIolani. 
 
-A full list of major coursework is available [here](/cv/coursework_transcript__evan_chen_style.pdf). There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
+A full list of major coursework is available [here](/cv/coursework.pdf). There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
 
 <!--
 <p style="text-align:center;">
