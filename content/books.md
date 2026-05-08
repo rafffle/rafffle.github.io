@@ -192,9 +192,21 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     An approach to mechanics that is modern, but not necessarily geometrical. Supplements Goldstein or Helliwell & Sahakian well. 
 </details>
 
-Geometric control of mechanical systems by Bullo & Lewis<br>
+<details>
+<summary> Geometric control of mechanical systems by Bullo & Lewis</summary>
+    Clarity: ★★★<br>
+    Difficulty: ★★★<br>
+    Overall: ★★★★<br>
+    A dense but enjoyable introduction to control theory through the lens of Riemannian geometry. Recommended to me by a professor from the University of Hawai'i when I was getting into geometric mechanics. 
+</details>
 Classical mechanics by Goldstein (3rd ed.)<br>
-Modern classical mechanics by Helliwell & Sahakian<br>
+<details>
+<summary> Modern classical mechanics by Helliwell & Sahakian</summary>
+    Clarity: ★★★<br>
+    Difficulty: ★★★<br>
+    Overall: ★★★<br>
+    I've seen this book recommended by some people like Kevin Zhou as a "better alternative" to Goldstein, but I must disagree, as I imagine would those who see analytical mechanics as an active field rather than a gateway into higher physics. It is admiral in ambition, advertising classical mechanics as a contemporary subject through the connections it draws to quantum mechanics and relativity, but that is precisely why it is not a better (graduate) replacement for Goldstein, because its modernity often comes by broadening the frame rather than deepening the mechanics. I think it's a decent textbook for an undergraduate's second course in mechanics--although a lot of people at Mudd would have a lot to say against that opinion. But it is definitely more advanced than Taylor's text and more "fun". As a graduate text, I'm not convinced. 
+</details>
 Classical mechanics by Taylor
 ## Condensed matter physics
 Introduction to solid state physics by Kittel (8th ed.)
@@ -207,8 +219,14 @@ Introduction to solid state physics by Kittel (8th ed.)
     I used this for PHY 311 at ASU with Prof. Easson. It's a Griffiths book.
 </details>
 
-## Mathematical physics
-Mirror symmetry by Hori et al
+## Quantum field theory
+<details>
+  <summary>Mirror Symmetry by Hori et al</summary>
+    Clarity: ★★★<br>
+    Difficulty: ★★★★<br>
+    Overall: ★★★★★<br>
+    Originally, I used this book to learn about moduli spaces of curves and stable maps. The main gimmick of the book is that the physics is written by mathematicians, and that the mathematics is written by physicists. Comparing the presentation that this book gave with the works of Harris & Morrison or Arbarello/Cornalba Griffiths/Harris, I'd definitely call this a very gentle introduction (the latter two texts, of course, serving a different purpose...). There are some pretty good drawings in the mirror symmetry book that make things make more sense. Beyond this, I must give credit where credit is due to this book--it very thick, has an incredible amount of information in it, but does not feel overwhelmingly dense. It is a work of art. That being said, there are some typos and errors here and there, so I'll have to dock a couple of stars in the "clarity" section. I put this book under the "quantum field theory" section, in part for lack of a better section, but also because Prof. Setter recommended the QFT portion of this book as something a good read after taking his course. It seems that many theorists like this book, and I can see why. I daresay--and this might be a premature opinion--mathematicians might do quantum field theory better than the physicists. Again, this book is excellent, but if an undergrad can catch some errors, I can't give it five stars for clarity.
+</details>
 ## Optics and acoustics
 Nonlinear wave processes in acoustics by Naugolnykh & Ostrovsky <br>
 Introduction to optics by Pedrotti, Pedrotti, & Pedrotti (3rd ed.)<br>
