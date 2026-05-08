@@ -40,7 +40,7 @@ I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://sc
 
 
 <div style="float:right; text-align:center; margin-left:20px;">
-  <img src="/images/nick.jpg" alt="nick" style="width:200px;"><br>
+  <img src="/images/nick.png" alt="nick" style="width:200px;"><br>
   Optics with Nick at 2025 nationals!
 </div>
 
