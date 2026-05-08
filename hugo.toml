@@ -18,24 +18,21 @@ footnotereturnlinkcontents = "↩"
     name = "Home"
     url = ""
     weight = 1
+    
   [[menu.main]]
     name="CV"
     url="/cv/english.pdf"
     weight=2
+
   [[menu.main]]
     name = "Talks"
     url = "talks/"
     weight = 3
 
   [[menu.main]]
-    name = "Notes"
-    url = "notes/"
-    weight = 4
-
-  [[menu.main]]
     name = "Bookshelf"
     url="books/"
-    weight=5
+    weight=4
 
 [params]
   description = "Website built with Hugo."

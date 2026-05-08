@@ -25,6 +25,13 @@ I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 202
 
 A full list of major coursework is available [here](/cv/coursework.pdf). There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
 
+## Personal notes
+These are some notes I’ve taken while learning physics and math.
+
+- [Probability](notes/probability.pdf)
+- [Algebra](notes/algebra.pdf)
+
+For some courses, 
 <!--
 <p style="text-align:center;">
 <img src="/images/mumfords.png" alt="scheme" style="display: block; margin: 0 auto; width: 50%; transform: rotate(0.5deg); transform-origin: center; padding-top: 1rem;">
