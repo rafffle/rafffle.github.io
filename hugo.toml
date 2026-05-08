@@ -28,8 +28,8 @@ footnotereturnlinkcontents = "↩"
     weight = 3
 
   [[menu.main]]
-    name = "Projects"
-    url = "proj/"
+    name = "Notes"
+    url = "notes/"
     weight = 4
 
   [[menu.main]]
@@ -38,7 +38,7 @@ footnotereturnlinkcontents = "↩"
     weight=5
 
 [params]
-  description = "A website built through Hugo and blogdown."
+  description = "Website built with Hugo."
   footer = "Email: [esquivelralphie@gmail.com](esquivelralphie@gmail.com) | [Github](https://github.com/rafffle) | [LinkedIn](https://www.linkedin.com/in/raphael-rm-esquivel/)"
 
 
