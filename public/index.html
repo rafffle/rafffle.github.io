@@ -59,16 +59,48 @@
 <p>STEM education is very important to me, especially accessibility. I support and believe in <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Federico Ardila-Mantilla&rsquo;s axioms</a>, and think these apply to STEM as a whole. I also believe that, following axiom 2, it is my duty to pass on knowledge, so that others might have joyful, meaningful, and empowering experiences in STEM like those I have enjoyed.</p>
 <h3 id="science-olympiad">Science Olympiad</h3>
 <p>I did <a href="https://www.soinc.org/">Science Olympiad</a> with <a href="https://scioly.org/wiki/Island_School">Island School</a> in 2018/19 and with <a href="https://scioly.org/wiki/%27Iolani_School">ʻIolani School</a> in 2023/24 and 2024/25. I now volunteer for <a href="https://socalscioly.org/?tab=about">Southern California Science Olympiad</a>. I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the tests that I&rsquo;m allowed to share.</p>
-<div style="float:right; text-align:center; margin-left:20px;">
-  <img src="/images/nick.png" alt="nick" style="width:250px;"><br>
-  Optics with Nick at 2025 nationals!
-</div>
+<!-- The .dropdowns thing is so hilariously sloppy i love it... -->
 <style>
+  .photo {
+    float: right;
+    text-align: center;
+    margin-left: 20px;
+  }
+
   details {
     margin-left: 20px;
     margin-bottom: 6px;
   }
+
+  @media (max-width: 600px) {
+    .scioly {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .photo {
+      float: none;
+      order: 2;
+      margin-left: 0;
+      margin-top: 12px;
+      align-self: center;
+      text-align: center;
+    }
+
+    .dropdowns {
+      order: 1;
+      margin-top: -30px;
+      padding-top: 0;
+    }
+  }
 </style>
+<div class="scioly">
+<div class="photo" style="float:right; text-align:center; margin-left:20px;">
+  <img src="/images/nick.png" alt="nick" style="width:250px;"><br>
+  Optics with Nick at 2025 nationals!
+</div>
+<p></style></p>
+<div class="dropdowns">
 <details>
   <summary><nobr>Kaiser Invitational (Jan 10, 2026)</nobr></summary>
 <div style="margin-left:20px;">
@@ -117,6 +149,8 @@
   <a href="/scioly/iolaniInvy2024/lab%20key.pdf">Materials science lab key</a>
 </div>
 </details>
+</div>
+</div>
 <div style="clear:both;"></div>
 <h3 id="ʻiolani-physics-club">ʻIolani Physics Club</h3>
 <p>I founded ʻIolani Physics Club in late 2023. I gave 30+ talks on various topics within physics, avoiding things that would typically show up in a high school class. I&rsquo;d give out handouts for some meetings; since there are too many to list here, you can find them under <a href="/talks">talks</a>.</p>

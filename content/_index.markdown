@@ -42,17 +42,51 @@ STEM education is very important to me, especially accessibility. I support and 
 ### Science Olympiad
 I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://scioly.org/wiki/Island_School) in 2018/19 and with [ʻIolani School](https://scioly.org/wiki/%27Iolani_School) in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the tests that I'm allowed to share.
 
-
-<div style="float:right; text-align:center; margin-left:20px;">
-  <img src="/images/nick.png" alt="nick" style="width:250px;"><br>
-  Optics with Nick at 2025 nationals!
-</div>
+<!-- The .dropdowns thing is so hilariously sloppy i love it... -->
 <style>
+  .photo {
+    float: right;
+    text-align: center;
+    margin-left: 20px;
+  }
+
   details {
     margin-left: 20px;
     margin-bottom: 6px;
   }
+
+  @media (max-width: 600px) {
+    .scioly {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .photo {
+      float: none;
+      order: 2;
+      margin-left: 0;
+      margin-top: 12px;
+      align-self: center;
+      text-align: center;
+    }
+
+    .dropdowns {
+      order: 1;
+      margin-top: -30px;
+      padding-top: 0;
+    }
+  }
 </style>
+<div class="scioly">
+
+<div class="photo" style="float:right; text-align:center; margin-left:20px;">
+  <img src="/images/nick.png" alt="nick" style="width:250px;"><br>
+  Optics with Nick at 2025 nationals!
+</div>
+
+
+</style>
+<div class="dropdowns">
 <details>
   <summary><nobr>Kaiser Invitational (Jan 10, 2026)</nobr></summary>
 
@@ -108,7 +142,9 @@ I did [Science Olympiad](https://www.soinc.org/) with [Island School](https://sc
   <a href="/scioly/iolaniInvy2024/lab%20key.pdf">Materials science lab key</a>
 </div>
 </details>
+</div>
 
+</div>
 <div style="clear:both;"></div>
 
 ### ʻIolani Physics Club
