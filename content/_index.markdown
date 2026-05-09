@@ -9,18 +9,13 @@ title: Home
 
 ## Biography
 
-I’m an undergraduate student in physics and mathematics at Harvey Mudd College. I'm interested in algebraic geometry, Gromov-Witten theory, quantum field theory, and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics, chemistry, and engineering. I particularly enjoy materials science, solid-state chemistry, condensed matter physics, quantum communication, fluid dynamics, finite element analysis, electronics, mechanical design, education.
+I’m an undergraduate student in physics and mathematics at Harvey Mudd College. I'm interested in algebraic geometry, Gromov-Witten theory, quantum field theory, and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics, chemistry, and engineering. I particularly enjoy geometric mechanics, materials science, optics, quantum communication, electronics, mechanical design, and STEM education/pedagogy.
 
-I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I was at **Stanford University Online High School** from 8th-9th grade and **ʻIolani School** from 10th-11th grade. I took some undergraduate physics classes from **Arizona State University** in 11th grade. I graduated early from ʻIolani. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf). There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.
+I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I was at **Stanford University Online High School** from 8th-9th grade and **ʻIolani School** from 10th-11th grade. I took some undergraduate physics classes from **Arizona State University** in 11th grade. I graduated early from ʻIolani. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf).
+
+<!-- There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.-->
 
 ## Personal notes
-<!--
-<div style="float:right; text-align:center; margin-left:20px;">
-<img src="/images/mumfords.png" alt="scheme" style="display: block; margin: 0 auto; width: 50%; transform: rotate(0.5deg); transform-origin: center; padding-top: 1rem;">
-<span>$$\text{Spec}\ \mathbb{Z}[x]$$</span>
-</div>
--->
-
 <div style="float:right; text-align:center; margin-left:20px; margin-bottom:10px;">
 <img src="/images/mumfords.png" alt="specz" style="width:250px; display:block; margin-bottom:-15px;">
 <span style="font-size:0.9em;">$$\text{Spec}\ \mathbb{Z}[x]$$</span>

@@ -25,14 +25,15 @@ footnotereturnlinkcontents = "↩"
     weight=2
 
   [[menu.main]]
-    name = "Talks"
+    name = "Talks and writing"
     url = "talks/"
     weight = 3
 
-  [[menu.main]]
-    name = "Bookshelf"
-    url="books/"
-    weight=4
+
+# [[menu.main]]
+#   name = "Bookshelf"
+#   url="books/"
+#   weight=4
 
 [params]
   description = "Website built with Hugo."

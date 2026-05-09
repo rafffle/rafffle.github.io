@@ -1,13 +1,13 @@
 ---
-title: Talks
+title: Talks and writing
 ---
 
 This is a collection of some of the talks and presentations I've given that have handouts/notes, which I thought might be worth sharing.
 
-## Math 171 final project: Symplectic reduction of phase spaces with symmetry
+### Math 171 final project: Symplectic reduction of phase spaces with symmetry
 Attempted to talk about this topic in geometric mechanics from a an algebraic view to my abstract algebra classmates at Mudd in 10-12 minutes. My notes are [here](/other%20presentations/Math_171_Final_Project%20(2).pdf).
 
-# ʻIolani Physics Club
+## ʻIolani Physics Club
 Here are some lecture notes/handouts I would give during my physics club presentations in high school. The handouts often have a lot of detail that I would not give in the lecture; I tried to be as complete as possible. Sometimes I followed the notes quite closely, while other times they were just a supplement for attendees to take home. Some meetings, especially the earlier ones, unfortunately did not have notes. The presentations were usually between 45 and 90 minutes long, depending on the school's schedule.
 
 - [Quantum mechanics in 3D: the hydrogen atom (5/5/2025)](/physics%20club/Quantum_Mechanics_in_3_Dimensions_and_Other_Quantum_Phenomena.pdf) 

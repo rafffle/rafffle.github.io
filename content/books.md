@@ -7,16 +7,17 @@ title: Bookshelf
 </style>
 
 
-Below is a list of textbooks I have used, and some of my thoughts on them. I tend to like rigorous, dry, and to-the-point books in mathematics, while in physics I enjoy standard texts. The reviews are a work in progress, and some of the really big books (Rising Sea, Mirror Symmetry and Foundations of Mechanics) I am still reading (and have been reading for a while).
+Below is a list of textbooks I have used, and some of my thoughts on them. I have only included books that I have read cover-to-cover (with the exception of some books that I used for classes that didn't cover the full book, in which case I make explicit the limitations of my thoughts). As such, it is missing a lot of things that I use for reference. I have abstained from commenting on my references, as I am sure better-informed opinions exist far and wide.
+<!-- The reviews are a work in progress, and some of the really big books (Rising Sea, Mirror Symmetry and Foundations of Mechanics) I am still reading (and have been reading for a while). -->
 
 # Mathematics
 ## Algebra
 <details>
-  <summary>Éléments des mathématiques, livre II: algèbre by Bourbaki (3rd ed.)</summary>
+  <summary>Éléments de mathématique, livre II: algèbre by Bourbaki (3rd ed.)</summary>
     Clarté: ★★★<br>
     Difficulté: ★★★★★<br>
     Overall: ★★★★★<br>
-    It's Bourbaki, need I say more? Really, though, this book (series) really wow'ed me. It's really beautifully written. As Bourbaki does, it's extremely thorough. I read a relatively old edition (from 1962)—Dr. Post let me take them from some old book pile that was laying in the math department faculty lounge at the University of Hawai'i at Mānoa. I spent a whole summer reading it, because I thought it would be cool to learn in French from the "real thing". Ironically, when I got to college, I had "knowledge gaps"—a UFD, to me, was known as an "anneau factoriel" (which literally translates to "factorial ring"), so my brain had some trouble adjusting to the terminology. But overall, I think the hard work to read the full book and do its exercises was beyond worth it. Would I do it for another Bourbaki book? Probably not, it really does take quite some time. But I think there's something quite beautiful in the way they constructed algebra (starting with "internal composition laws" and working up), definitely not what you would get from other graduate texts like Lang or Godement.
+    It's Bourbaki, need I say more? Really, though, this book (series) really wow'ed me. It's really beautifully written. As Bourbaki does, it's extremely thorough. I read a relatively old edition (from 1962)—Dr. Post let me take them from some old book pile that was laying in the math department faculty lounge at the University of Hawai'i at Mānoa. I spent a whole summer reading it, because I thought it would be cool to learn in French from the "real thing". Overall, I think the hard work to read the full book and do its exercises was beyond worth it. Would I do it for another Bourbaki book? Probably not, it really does take quite some time. But I think there's something quite beautiful in the way they constructed algebra (starting with "internal composition laws" and working up), definitely not what you would get from other graduate texts like Lang.
 </details>
 <details>
   <summary>Introduction to Abstract Algebra by Dummit & Foote (3rd ed.)</summary>
@@ -26,6 +27,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     This book was used in my MATH 171 class with Prof. Lindo at Mudd. We only did parts I and II (group theory and ring theory). I think the true value of the book is in the exercises, which are not too hard, but just enough to get you to understand what you have to understand and how to work with it. Otherwise, since I had read Bourbaki before taking the class, the book itself was not too interesting (but don't take my word for it).
 </details>
 
+<!--
 <details>
   <summary>Linear Algebra & Its Applications by Lay, Lay, & McDonald (6th ed.)</summary>
     Clarity: ★★★★<br>
@@ -33,7 +35,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     Standard linear algebra textbook that Mr. Hue used in his linear algebra class at ʻIolani. I don't have much to say on it. I already knew some linear algebra going into the class (from quantum mechanics), but I had not learned it the "traditional way" (i.e. spending a whole lot of time on row reduction and then doing a bunch of proofs) and instead just knew what a physics major needs to know and nothing more (i.e. to do what you need to do in quantum mechanics). Needless to say that learning it the traditional way was much more helpful than my physics knowledge, because when it came time for the Math 073 placement test at Mudd, I would not have gotten by without having gone through this book.
 </details>
-
+-->
 
 ## Calculus and analysis
 <details>
@@ -43,6 +45,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     This book was used in my MATH 165 class with Prof. Haddock at Mudd. She based her lectures on these, and we used Trefethen and Bau's book on numerical linear algebra to supplement. As Prof. Haddock said on one of the first slides on the first day, this course was on numerical linear algebra (perhaps this would have been better placed in the above section?) A lot of it was on fixed point methods, and overall I found the course and content material pretty fun. As for the textbook, it reminds me of modern calculus/differential equations/linear algebra textbooks in that it's very example-motivated and exercise-heavy; though I'd argue that the exercises weren't too enlightening, as they were mostly just plugging in numbers/equations into the methods covered in the chapter. They were good for getting comfortable with working with those methods. The book definitely served as good motivation to look deeper into the theory.
 </details>
+<!--
 <details>
 <summary>Systèmes différentiels et méthode des éléments finis by Jeribi</summary>
     Clarté: ★<br>
@@ -50,6 +53,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     I picked up this book in Paris; I have family in Normandy, and was staying with them, but my father was going back home early, so I used that as an excuse to go to Paris with him and get some cool books. I saw a big stack of these green <i>Calvage et Mounet</i> books. All were quite new. A friend had recently told me to look into FEA, so I grabbed the FEA book because it looked interesting. Unfortunately, this book is unclear on its prerequisites (lots of functional analysis) and its first chapters are honestly a bit messy (weird sequences of statements, typos)—it seemed like the author wanted to put together a "bare minimum" quickly, but he didn't give it enough attention, in my opinion. The rest of the book, though, got me really engaged in the field.
 </details>
+-->
 <details>
   <summary>Calculus on manifolds by Spivak</summary>
     Clarity: ★★<br>
@@ -62,7 +66,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Clarity: ★★★★★<br>
     Difficulty: ★★<br>
     Overall: ★★★★★<br>
-    This was the first proofs-heavy book that I'd read. I think this is the best and clearest gentle introduction to mathematical analysis of a single variable. It's very readable and friendly when comparing to other undergraduate texts like Rudin. It covers all the standard topics of a one-semester course, but, as the [MAA review](https://old.maa.org/press/maa-reviews/understanding-analysis) puts it well, discusses them in a nonstandard way, in a way that is dangerous to the instructor because it is so well-written and well-motivated that book's exposition will almost always exceed an instructor's lectures in clarity. The exercises were particularly well-chosen to advance the reader's understanding and comfort with the material.
+    This was the first proofs-heavy book that I ever read. I think this is the best and clearest gentle introduction to mathematical analysis of a single variable. It's very readable and friendly when comparing to other undergraduate texts like Rudin. It covers all the standard topics of a one-semester course, but, as the [MAA review](https://old.maa.org/press/maa-reviews/understanding-analysis) puts it well, discusses them in a nonstandard way, in a way that is dangerous to the instructor because it is so well-written and well-motivated that book's exposition will almost always exceed an instructor's lectures in clarity. The exercises were particularly well-chosen to advance the reader's understanding and comfort with the material.
 </details>
 
 <details>
@@ -74,6 +78,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
 </details>
 
 ## Differential equations
+<!--
 <details>
   <summary>Partial differential equations by John (1st ed.)</summary>
     Clarity: ★★★<br>
@@ -81,6 +86,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     Picked up this old book at the library to study for a placement test at Mudd. It explains the characteristic method particularly well. It bridges the gap in rigor that Pinchover & Rubinstein's book sort of glazes over.
 </details>
+
 <details>
   <summary>An introduction to partial differential equations by Pinchover & Rubinstein</summary>
     Clarity: ★★★★<br>
@@ -88,6 +94,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★<br>
     Used this to study for a placement test at Mudd, aiming to fill in the knowledge gaps that I had, having studied partial differential equations mostly from Boas (see below). Quite well-motivated, and it provides a good conceptual understanding for the methods in PDEs used at the undergraduate level.
 </details>
+
 <details>
   <summary>Mathematical methods in the physical sciences by Boas (3rd ed.)</summary>
     Clarity: ★★★★<br>
@@ -95,6 +102,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★<br>
     I used this for PHY 302 at ASU with Prof. Vachaspati. I put this under "differential equations" because the main use of this book was to gain familiarity with PDE techniques used in undergraduate physics, especially special functions and Sturm-Liouville theory. Boas gives a well-motivated exposition and walks you through the subject quite well.
 </details>
+-->
 <details>
   <summary>Differential equations with boundary-value problems by Zill & Cullen (5th ed.)</summary>
     Clarity: ★★★★<br>
@@ -102,24 +110,6 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     I used this book in my ordinary differential equations class at ʻIolani with Dr. Cottrell and Dr. Lomuscio. This book is standard. It feels a little mechanical and boring, just teaching you some basic techniques to solving certain types of differential equations, but it does its job.
 </details>
-
-## Discrete mathematics
-<details>
-  <summary>Discrete mathematics, an open introduction by Oscar Levin (4th ed.)</summary>
-    Clarity: ★★★★<br>
-    Difficulty: ★★★<br>
-    Overall: ★★★<br>
-    I read this to study for a placement at Mudd. Well-motivated, but a bit longer than it should be, in my opinion.
-</details>
-
-<details>
-  <summary>A TeXas Style introduction to proof by Taylor & Rault</summary>
-    Clarity: ★★★★<br>
-    Difficulty: ★<br>
-    Overall: ★★★★<br>
-    I used this book in my discrete mathematics class at ʻIolani with Dr. Lomuscio. Dr. Lomuscio went to Berry College for his undergrad, so he got us this book written by a Berry professor that I had never heard of. Honestly, I think it's an excellent introduction to proof writing techniques and the type of rigor higher math courses want, without overwhelming the reader with too many new, hard concepts. Highly recommend for any high school discrete math/proofs class.
-</details>
-
 
 ## Geometry and topology
 <details>
@@ -131,6 +121,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
 </details>
 
 ### Algebraic geometry
+<!--
 <details>
   <summary>Moduli spaces by Brambila-Paz, Garcia-Prada, Newstead, & Thomas</summary>
     Clarity: ★★★★<br>
@@ -138,14 +129,16 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★★<br>
     I read the first part of this book, which is a really elegant, gentle, pictoral introduction to moduli spaces and algebraic stacks by building moduli spaces/stacks of various classes of triangles (literally, triangles in a plane) and then giving the formalism. The figures are amazing.
 </details>
+-->
 <details>
   <summary>The rising sea: foundations of algebraic geometry by Vakil</summary>
     Clarity: ★★★★<br>
     Difficulty: ★★★★★<br>
     Overall: ★★★★★<br>
-    This was the book used in an independent reading course in algebraic geometry (titled "scheme theory") with Prof. Karp at Mudd. While Vakil makes you work for it, the book itself (or, at least, the first two parts that I have read so far—it's a work in progress for me) is incredibly rewarding, more so than Hartshorne. You have to work to understand things. The exercises are beautifully selected and the important ones are highlighted. Vakil's book is truly one of a kind, and I can't see it going out of fashion for a while.
+    This is the book we followed in an independent reading course on schemes with Prof. Karp at Mudd. We read parts I and II. The book itself is incredibly rewarding, more so than Hartshorne, which even some of the most brilliant people I know call "impenetrable"; indeed, having read parts II-IV of the latter, I don't think the pain was worth it. Anyways, Vakil makes you work to understand things. The exercises are beautifully selected and the important ones are highlighted. Vakil's book is truly one of a kind, and I can't see it going out of fashion for a while. 
 </details>
 
+<!--
 <details>
   <summary>The geometry of schemes by Eisenbud</summary>
     Clarity: ★★★★<br>
@@ -153,7 +146,9 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★<br>
     An excellent supplement to Vakil's book for understanding schemes, especially from a geometric standpoint.
 </details>
+-->
 
+<!--
 <details>
   <summary>Algebraic geometry by Hartshorne</summary>
     Clarity: ★★★<br>
@@ -161,6 +156,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★<br>
     Very dense book. Much pain. 
 </details>
+-->
 
 ### Symplectic geometry
 <details>
@@ -170,12 +166,34 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★★<br>
     Quite a fun, elegant book. It's exceptionally well-motivated in mathematical physics and ends with some open problems.
 </details>
+## Other 
+<!--
+<details>
+  <summary>Discrete mathematics, an open introduction by Oscar Levin (4th ed.)</summary>
+    Clarity: ★★★★<br>
+    Difficulty: ★★★<br>
+    Overall: ★★★<br>
+    I read this to study for a placement at Mudd. Well-motivated, but a bit longer than it should be, in my opinion.
+</details>
+-->
+
+<details>
+  <summary>A TeXas Style introduction to proof by Taylor & Rault</summary>
+    Clarity: ★★★★<br>
+    Difficulty: ★<br>
+    Overall: ★★★★<br>
+    I used this book in my discrete mathematics class at ʻIolani with Dr. Lomuscio. Dr. Lomuscio went to Berry College for his undergrad, so he got us this book written by a Berry professor that I had never heard of. Honestly, I think it's an excellent introduction to proof writing techniques and the type of rigor higher math courses want, without overwhelming the reader with too many new, hard concepts. Highly recommend for any high school discrete math/proofs class.
+</details>
+
+
+
 
 
 
 # Physics
 ## Classical mechanics
 
+<!--
 <details>
   <summary>Foundations of mechanics by Abraham and Marsden</summary>
     Clarity: ★★★★<br>
@@ -183,6 +201,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★★<br>
     Very dense book. Much pain. But so beautiful. So much prerequisite math. But so, so beautiful.
 </details>
+-->
 
 <details>
   <summary>Advanced dynamics by Greenwood</summary>
@@ -192,6 +211,7 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     An approach to mechanics that is modern, but not necessarily geometrical. Supplements Goldstein or Helliwell & Sahakian well. 
 </details>
 
+<!--
 <details>
 <summary> Geometric control of mechanical systems by Bullo & Lewis</summary>
     Clarity: ★★★<br>
@@ -199,7 +219,16 @@ Below is a list of textbooks I have used, and some of my thoughts on them. I ten
     Overall: ★★★★<br>
     A dense but enjoyable introduction to control theory through the lens of Riemannian geometry. Recommended to me by a professor from the University of Hawai'i when I was getting into geometric mechanics. 
 </details>
-Classical mechanics by Goldstein (3rd ed.)<br>
+-->
+
+<details>
+  <summary>Classical mechanics by Goldstein (3rd ed.)</summary>
+    Clarity: ★★★★<br>
+    Difficulty: ★★★<br>
+    Overall: ★★★★★<br>
+    I can see why this is the standard and included in the bare minimum of texts for the physicist. It does everything that it needs to do and it does it well. It is old and not modern in geometric language, but I don't think that the peo
+</details>
+
 <details>
 <summary> Modern classical mechanics by Helliwell & Sahakian</summary>
     Clarity: ★★★<br>
