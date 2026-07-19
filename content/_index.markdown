@@ -26,7 +26,10 @@ I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 202
       <a href="notes/probability.pdf">Probability</a>
       </li>
       <li>
-      <a href="notes/algebra.pdf">Algebra</a>
+      <a href="notes/gr.pdf">General relativity</a>
+      </li>
+      <li>
+      <a href="notes/qft.pdf">Quantum Field theory</a>
       </li>
 </ul>
 <div style="clear:both;"></div>
