@@ -30,6 +30,9 @@ I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 202
       <a href="notes/probability.pdf">Probability</a>
       </li>
       <li>
+      <a href="notes/ag.pdf">Algebraic geometry (messy)</a>
+      </li>
+      <li>
       <a href="notes/gr.pdf">General relativity</a>
       </li>
       <li>
