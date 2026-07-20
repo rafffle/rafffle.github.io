@@ -9,7 +9,11 @@ title: Home
 
 ## Biography
 
-I’m an undergraduate student in physics and mathematics at Harvey Mudd College. I'm interested in algebraic geometry, Gromov-Witten theory, quantum field theory, and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics, chemistry, and engineering. I particularly enjoy geometric mechanics, materials science, optics, quantum communication, digital electronics, mechanical design, and STEM education/pedagogy.
+I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests include algebraic geometry, Gromov-Witten theory, quantum field theory, and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics.
+
+I am currently working with Professor Karp on logarithmic Gromov–Witten theory. Last summer, I worked with Professor Gallicchio on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming.
+
+Outside of my current research, my technical background incldues geometric mechanics, materials science, optics, digital electronics, mechanical design, and STEM education/pedagogy.
 
 I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I took some undergraduate physics classes from **Arizona State University** in 11th grade, before graduating a year early from **'Iolani School**. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf).
 
