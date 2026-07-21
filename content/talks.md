@@ -2,7 +2,7 @@
 title: Talks and writing
 ---
 
-This is a collection of some of the talks and presentations I've given that have handouts/notes, which I thought might be worth sharing.
+This is a collection of some of my expository papers, talk notes, and presentations. 
 
 ### Phys 187 final project: The Witten effect and cohomology (SP26)
 The Witten effect describes how magnetic monopoles acquire electric charge in the presence of a topological θ-term arising from CP violation. This expository paper derives the effect in Yang--Mills theory, then reformulates it using integral and differential cohomology, interpreting magnetic charge topologically and placing the Witten effect in a modern cohomological framework that extends naturally to higher gauge theories. Access [here](/writing/phys187-final-project.pdf).
