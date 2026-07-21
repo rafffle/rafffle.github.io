@@ -4,7 +4,10 @@ title: Talks and writing
 
 This is a collection of some of the talks and presentations I've given that have handouts/notes, which I thought might be worth sharing.
 
-### Math 171 final project: Symplectic reduction of phase spaces with symmetry
+### Phys 187 final project: The Witten effect and cohomology (SP26)
+The Witten effect describes how magnetic monopoles acquire electric charge in the presence of a topological θ-term arising from CP violation. This expository paper derives the effect in Yang--Mills theory, then reformulates it using integral and differential cohomology, interpreting magnetic charge topologically and placing the Witten effect in a modern cohomological framework that extends naturally to higher gauge theories. Access [here](/writing/phys187-final-project.pdf).
+
+### Math 171 final project: Symplectic reduction of phase spaces with symmetry (FA25)
 From Jacobi-Liouville, if one has k first integrals in involution (i.e. their Poisson brackets all vanish), then it is possible to reduce Hamilton's equations to a set of Hamiltonian equations in which 2k variables have been eliminated. Similarly, in the n-body problem, rotational invariance allows one to eliminate four variables. The procedure of reduction, formalized by Marsden and Weinstein, includes both of these as special cases. I presented on this from an algebraic viewpoint to my abstract algebra classmates. The talk was 10 minutes long. My notes are [here](/talks/math171-final-project.pdf). 
 
 ## ʻIolani Physics Club
