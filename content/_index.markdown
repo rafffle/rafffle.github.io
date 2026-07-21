@@ -11,11 +11,12 @@ title: Home
 
 I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests include algebraic geometry, Gromov-Witten theory, quantum field theory, and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics.
 
-I am currently working with Professor Karp on logarithmic Gromov–Witten theory. Last summer, I worked with Professor Gallicchio on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming.
+I am currently working with Professor Dagan Karp at Mudd on logarithmic Gromov–Witten theory. Last summer, I worked with Professor Jason Gallicchio at Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming.
 
-Outside of my current research, my technical background incldues geometric mechanics, materials science, optics, digital electronics, mechanical design, and STEM education/pedagogy.
+Outside of my current research, my technical background incldues materials science, optics, digital electronics, mechanical design, machining, and STEM education/pedagogy.
 
-I'm originally from Līhuʻe, Hawaiʻi. I started at **Harvey Mudd** in Fall 2025. Before that, I took some undergraduate physics classes from **Arizona State University** in 11th grade, before graduating a year early from **'Iolani School**. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf).
+I'm originally from Līhuʻe, Hawaiʻi. I started my undergrad at **Harvey Mudd** in Fall 2025. I went to 
+Before that, I took some undergraduate physics classes from **Arizona State University** in 11th grade, before graduating a year early from **'Iolani School**. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf).
 
 <!-- There are only so many courses that one can take, so I also try to learn things outside of class. I have a (virtual) [bookshelf](/books) with the books I've read and my thoughts.-->
 
