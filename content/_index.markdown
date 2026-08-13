@@ -28,15 +28,15 @@ Before that, I took some undergraduate physics classes from **Arizona State Univ
       <p>These are some notes I’ve taken while learning physics and math.</p>
     <ul style="margin-top:0;">
       <li>
-      <a href="notes/probability.pdf">Probability</a>
-      </li>
-      <li>
       <a href="notes/ag.pdf">Algebraic geometry (messy)</a>
       </li>
       <li>
       <a href="notes/gr.pdf">General relativity</a>
       </li>
       <li>
+      <li>
+      <a href="notes/probability.pdf">Probability</a>
+      </li>
       <a href="notes/qft.pdf">Quantum Field theory</a>
       </li>
 </ul>
