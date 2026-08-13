@@ -34,9 +34,9 @@ Before that, I took some undergraduate physics classes from **Arizona State Univ
       <a href="notes/gr.pdf">General relativity</a>
       </li>
       <li>
-      <li>
       <a href="notes/probability.pdf">Probability</a>
       </li>
+      <li>
       <a href="notes/qft.pdf">Quantum Field theory</a>
       </li>
 </ul>
