@@ -9,9 +9,9 @@ title: Home
 
 ## Biography
 
-I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests are primarily in algebraic geometry and mathematical physics, especially Gromov-Witten theory and mirror symmetry. More broadly, I enjoy problems across theoretical and applied physics.
+I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests are primarily in algebraic geometry and mathematical physics, especially Gromov-Witten theory and quantum field theory. More broadly, I enjoy problems across theoretical and applied physics.
 
-I am currently working with Professor Dagan Karp at Mudd on logarithmic Gromov–Witten theory. Last summer, I worked with Professor Jason Gallicchio at Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming.
+Last summer, I worked with Professor Jason Gallicchio at Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming. Previously, I've worked with Professor Dagan Karp at Mudd on logarithmic Gromov–Witten theory.
 
 Outside of my current research, my technical background includes geometric mechanics, nanomaterials, mechanical design, machining, and STEM education/pedagogy.
 
@@ -45,7 +45,7 @@ I'm originally from Līhuʻe, Hawaiʻi. I started my undergrad at **Harvey Mudd*
 STEM education is very important to me, and I strive to enable others to have joyful scientific experiences through various initiatives, as many great people have done for me. I support and believe in [Federico Ardila-Mantilla's axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf), and think these apply to STEM as a whole. 
 
 ### Science Olympiad
-I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 and with ʻIolani School in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the tests that I'm allowed to share.
+I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 and with ʻIolani School in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the events I've supervised, along with links to the tests that I'm allowed to share. All events are division C unless otherwise stated. (For competitors seeking advice for Science Olympiad, my former teammate and good friend Hong Jin Kwak has an [excellent document](https://hkwak8.github.io/Advice_for_Science_Olympiad%20(1).pdf) that I highly recommend)
 
 <!-- The .dropdowns thing is so hilariously sloppy i love it... -->
 <style>
@@ -91,10 +91,39 @@ I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 a
 
 
 </style>
-<div class="dropdowns">
+<div class="dropdowns"> 
+<details>
+  <summary><nobr>GullSO Invitational (December 12, 2026)</nobr></summary>
+<div style="margin-left:20px;">
+Circuit lab (tests not yet publicly available)
+</div>
+</details>
+<details>
+  <summary><nobr>Iolani Invitational (November 28, 2026)</nobr></summary>
+<div style="margin-left:20px;">
+Thermodynamics (tests not yet publicly available)
+</div>
+</details>
+<details>
+  <summary><nobr>Mason Invitational (November 14, 2026)</nobr></summary>
+<div style="margin-left:20px;">
+Circuit lab (tests not yet publicly available)
+</div>
+</details>
+<details>
+  <summary><nobr>Rickards Invitational (October 31, 2026)</nobr></summary>
+<div style="margin-left:20px;">
+Circuit lab (tests not yet publicly available)
+</div>
+</details>
+<details>
+  <summary><nobr>Los Angeles - Rio Hondo Regional (February 28, 2026)</nobr></summary>
+<div style="margin-left:20px;">
+    Circuit lab B and C (tests not publicly available)
+</div>
+</details>
 <details>
   <summary><nobr>Kaiser Invitational (Jan 10, 2026)</nobr></summary>
-
 <div style="margin-left:20px;">
   <a href="/scioly/kaiser2026/test.pdf">Materials science test</a><br>
   <a href="/scioly/kaiser2026/data%20sheet.pdf">Materials science data sheet (for lab)</a><br>
@@ -127,14 +156,6 @@ I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 a
   <a href="/scioly/iolaniTryout1/key.pdf">Materials science key</a>
 </div>
 </details>
-<details>
-  <summary>ʻIolani Pre-Nationals Practice (May 2025)</summary>
-
-<div style="margin-left:20px;">
-  These are practice tests I wrote as a competitor.
-  <a href="/scioly/natsPractice/optics.pdf">Optics</a><br>
-  <a href="/scioly/natsPractice/matsci.pdf">Materials Science</a>
-</div>
 
 </details>
 <details>
