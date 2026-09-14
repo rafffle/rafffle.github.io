@@ -11,7 +11,7 @@ title: Home
 
 I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests are primarily in algebraic geometry and mathematical physics, especially Gromov-Witten theory and quantum field theory. More broadly, I enjoy problems across theoretical and applied physics.
 
-Last summer, I worked with Professor Jason Gallicchio at Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming. Previously, I've worked with Professor Dagan Karp at Mudd on logarithmic Gromov–Witten theory.
+Last summer, I worked with Professor Jason Gallicchio at Harvey Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming. During the academic year, I conducted undergraduate research in logarithmic Gromov–Witten theory with Professor Dagan Karp at Harvey Mudd. I have also worked on geometric mechanics under the mentorship of Professor Sarah Widiasih Post at the University of Hawaiʻi at Mānoa.
 
 Outside of my current research, my technical background includes geometric mechanics, nanomaterials, mechanical design, machining, and STEM education/pedagogy.
 
