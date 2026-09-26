@@ -4,6 +4,13 @@ title: Talks and writing
 
 This is a collection of some of my expository papers, talk notes, and presentations. 
 
+### Custom FPGA architecture for kilometer-scale quantum position verification 
+<div style="float:right; text-align:center; margin-left:20px; margin-bottom:10px;">
+<img src="/images/qpv.jpeg" alt="specz" style="width:300px; display:block; ">
+</div>
+      <p>Quantum position verification (QPV) is a way to use quantum communication to establish trust based on location without requiring any pre-shared keys. In Professor Gallicchio’s lab at Harvey Mudd, I spent a year developing a kilometer-scale experimental implementation of QPV, with a focus on low-latency FPGA-based control and communication. I presented our summer 2026 progress on this custom experimental architecture at Harvey Mudd College’s Summer Research & Scholarship Poster Celebration.
+<div style="clear:both;"></div>
+
 ### Phys 187 final project: The Witten effect and cohomology (SP26)
 The Witten effect describes how magnetic monopoles acquire electric charge in the presence of a topological θ-term arising from CP violation. This expository paper, written for my quantum field theory class, derives the effect in Yang-Mills theory, then reformulates it using integral and differential cohomology, interpreting magnetic charge topologically and placing the Witten effect in a modern cohomological framework that extends naturally to higher gauge theories. Access [here](/writing/phys187-final-project.pdf).
 
