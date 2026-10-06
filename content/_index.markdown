@@ -99,12 +99,6 @@ Circuit lab (tests not yet publicly available)
 </div>
 </details>
 <details>
-  <summary><nobr>Iolani Invitational (November 28, 2026)</nobr></summary>
-<div style="margin-left:20px;">
-Thermodynamics (tests not yet publicly available)
-</div>
-</details>
-<details>
   <summary><nobr>Mason Invitational (November 14, 2026)</nobr></summary>
 <div style="margin-left:20px;">
 Circuit lab (tests not yet publicly available)
