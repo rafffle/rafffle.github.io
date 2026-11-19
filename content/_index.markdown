@@ -11,9 +11,9 @@ title: Home
 
 I’m an undergraduate student in physics and mathematics at Harvey Mudd College. My research interests are primarily in algebraic geometry and mathematical physics, especially Gromov-Witten theory and quantum field theory. More broadly, I enjoy problems across theoretical and applied physics.
 
-Last summer, I worked with Professor Jason Gallicchio at Harvey Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming. During the academic year, I conducted undergraduate research in logarithmic Gromov–Witten theory with Professor Dagan Karp at Harvey Mudd. I have also worked on geometric mechanics under the mentorship of Professor Sarah Widiasih Post at the University of Hawaiʻi at Mānoa.
+Last summer, I worked with [Jason Gallicchio](https://www.hmc.edu/physics/faculty-staff/gallicchio/) at Harvey Mudd on quantum communication, focusing on an ultra-low-latency radio link, photonics, and FPGA hardware programming. During the academic year, I conducted undergraduate research in logarithmic Gromov–Witten theory with [Dagan Karp](https://www.math.hmc.edu/~dk/) at Harvey Mudd. I have also worked on geometric mechanics under the mentorship of [Sarah Widiasih Post](https://math.hawaii.edu/~sarah/) at the University of Hawaiʻi at Mānoa.
 
-Outside of my current research, my technical background includes geometric mechanics, nanomaterials, mechanical design, machining, and STEM education/pedagogy.
+Outside of my current research, my technical background includes nanomaterials, mechanical design, machining, and STEM education/pedagogy.
 
 I'm originally from Līhuʻe, Hawaiʻi. I started my undergrad at **Harvey Mudd** in Fall 2025. Before that, I took some undergraduate physics classes from **Arizona State University** in 11th grade, before graduating a year early from **'Iolani School**. A CV is available in [English](/cv/english.pdf) or [French](/cv/francais.pdf). A full list of major coursework is available [here](/cv/coursework.pdf).
 
@@ -45,7 +45,7 @@ I'm originally from Līhuʻe, Hawaiʻi. I started my undergrad at **Harvey Mudd*
 STEM education is very important to me, and I strive to enable others to have joyful scientific experiences through various initiatives, as many great people have done for me. I support and believe in [Federico Ardila-Mantilla's axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf), and think these apply to STEM as a whole. 
 
 ### Science Olympiad
-I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 and with ʻIolani School in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the events I've supervised, along with links to the tests that I'm allowed to share. All events are division C unless otherwise stated. For competitors seeking advice for Science Olympiad, my former teammate and good friend Hong Jin Kwak published an [excellent advice document](https://hkwak8.github.io/Advice_for_Science_Olympiad.pdf) that I highly recommend reading.
+I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 and with ʻIolani School in 2023/24 and 2024/25. I now volunteer for [Southern California Science Olympiad](https://socalscioly.org/?tab=about). I write tests, design lab activities, and supervise events in circuit lab, optics, and materials science for invitational and regional tournaments. Below are the events I've supervised, along with links to the tests that I'm allowed to share. All events are division C unless otherwise stated. For competitors seeking advice for Science Olympiad, my good friend and former teammate  Hong Jin Kwak published an [excellent advice document](https://hkwak8.github.io/Advice_for_Science_Olympiad.pdf) that I highly recommend reading.
 
 <!-- The .dropdowns thing is so hilariously sloppy i love it... -->
 <style>
@@ -92,6 +92,17 @@ I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 a
 
 </style>
 <div class="dropdowns"> 
+<details>
+  <summary><nobr>TritonSO (UCSD) Invitational (February 20, 2027)</nobr></summary>
+<div style="margin-left:20px;">
+Circuit lab (tests not yet publicly available)
+</div>
+<details>
+  <summary><nobr>DubSO (UW) Invitational (January 23, 2027)</nobr></summary>
+<div style="margin-left:20px;">
+Thermodyanmics (tests not yet publicly available)
+Quantum supremacy (tests not yet publicly available)
+</div>
 <details>
   <summary><nobr>GullSO Invitational (December 12, 2026)</nobr></summary>
 <div style="margin-left:20px;">
