@@ -89,20 +89,20 @@ I did [Science Olympiad](https://www.soinc.org/) with Island School in 2018/19 a
   Optics with Nick at 2025 nationals!
 </div>
 
-
-</style>
 <div class="dropdowns"> 
 <details>
   <summary><nobr>TritonSO (UCSD) Invitational (February 20, 2027)</nobr></summary>
 <div style="margin-left:20px;">
 Circuit lab (tests not yet publicly available)
 </div>
+</details>
 <details>
   <summary><nobr>DubSO (UW) Invitational (January 23, 2027)</nobr></summary>
 <div style="margin-left:20px;">
-Thermodyanmics (tests not yet publicly available)
+Thermodyanmics (tests not yet publicly available)<br>
 Quantum supremacy (tests not yet publicly available)
 </div>
+</details>
 <details>
   <summary><nobr>GullSO Invitational (December 12, 2026)</nobr></summary>
 <div style="margin-left:20px;">
@@ -160,8 +160,6 @@ Circuit lab (tests not yet publicly available)
   <a href="/scioly/iolaniTryout1/test.pdf">Materials science test</a><br>
   <a href="/scioly/iolaniTryout1/key.pdf">Materials science key</a>
 </div>
-</details>
-
 </details>
 <details>
   <summary>ʻIolani Invitational (Nov 30, 2024)</summary>
