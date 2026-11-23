@@ -99,7 +99,7 @@ Circuit lab (tests not yet publicly available)
 <details>
   <summary><nobr>DubSO (UW) Invitational (January 23, 2027)</nobr></summary>
 <div style="margin-left:20px;">
-Thermodyanmics (tests not yet publicly available)<br>
+Thermodynamics (tests not yet publicly available)<br>
 Quantum supremacy (tests not yet publicly available)
 </div>
 </details>
